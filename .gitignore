@@ -15,4 +15,4 @@
 .DS_Store
 
 #necu node module
-node_modules
+/node_modules
