@@ -1365,4 +1365,8 @@ video {
   .lg\:block {
     display: block;
   }
+
+  .lg\:flex-row {
+    flex-direction: row;
+  }
 }
