@@ -1,0 +1,71 @@
+[33mcommit 20d5fcb301c919b0471ed1a40716bce0b05e430f[m[33m ([m[1;36mHEAD -> [m[1;32mfooter[m[33m, [m[1;31morigin/footer[m[33m)[m
+Author: markopojer <marko.pojer@visokarazina.hr>
+Date:   Mon Aug 1 13:40:16 2022 +0200
+
+    stavio sam sjene na buttone doda white logo u footer
+
+[33mcommit 816ca0e2eee210af31401eaf3eb0862aa3a66afe[m[33m ([m[1;31morigin/menu[m[33m, [m[1;32mmenu[m[33m)[m
+Author: markopojer <marko.pojer@visokarazina.hr>
+Date:   Fri Jul 29 10:24:00 2022 +0200
+
+    idemo na footer
+
+[33mcommit d1d1b1f596ce6e2227b84481e3f3c77ea61f88b0[m
+Author: markopojer <marko.pojer@visokarazina.hr>
+Date:   Thu Jul 28 15:42:11 2022 +0200
+
+    krenuo sam na footer
+
+[33mcommit f88c206d42a4ea629206711bb46f25305374125d[m
+Author: markopojer <marko.pojer@visokarazina.hr>
+Date:   Thu Jul 28 15:24:15 2022 +0200
+
+    responsive menu done
+
+[33mcommit 9496303f9a8a91587458c1d79243b37d5c565919[m
+Author: markopojer <marko.pojer@visokarazina.hr>
+Date:   Thu Jul 28 11:48:35 2022 +0200
+
+    napravio sam da se button makne kad treba
+
+[33mcommit d1d6f7ff5ba90b01e2bcc43d2aa44a24519259ce[m
+Author: markopojer <marko.pojer@visokarazina.hr>
+Date:   Thu Jul 28 10:44:14 2022 +0200
+
+    backup prije postavljanja mobilnog menija
+
+[33mcommit ff87072bc4e92eb204174851a3b9ccf7856b572c[m
+Author: markopojer <marko.pojer@visokarazina.hr>
+Date:   Thu Jul 28 10:25:40 2022 +0200
+
+    dodao sam hamburger menu
+
+[33mcommit 03f7e560e0ad6af32a7152f0406da8d529e345a8[m[33m ([m[1;32mmain[m[33m)[m
+Author: markopojer <marko.pojer@visokarazina.hr>
+Date:   Wed Jul 27 15:27:53 2022 +0200
+
+    dodao sam menu nisam ga ucinio responsive
+
+[33mcommit 1a475b4f57248452189875ceca102dc6d9dd88fb[m
+Author: markopojer <marko.pojer@visokarazina.hr>
+Date:   Wed Jul 27 11:30:27 2022 +0200
+
+    sve sam to naredio imam jos samo detalje ooko kojih cu se najebat, kinda spremno za pokazat
+
+[33mcommit e0623d6e02ab218d3d254e90bfd8b1e1f6567550[m
+Author: markopojer <marko.pojer@visokarazina.hr>
+Date:   Tue Jul 26 14:35:11 2022 +0200
+
+    maknuo sam node modules
+
+[33mcommit 844771301cc3d1b8b5fa63e9cc90f1ba9c5e2dc5[m
+Author: markopojer <marko.pojer@visokarazina.hr>
+Date:   Tue Jul 26 14:23:40 2022 +0200
+
+    prvi commit
+
+[33mcommit 442e55d631808a3d2b890abcafecef0ce4a59096[m
+Author: markopojer <marko.pojer@visokarazina.hr>
+Date:   Tue Jul 26 14:17:27 2022 +0200
+
+    first commit
