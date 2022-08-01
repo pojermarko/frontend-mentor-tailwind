@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* background patterns  */
+
+@media only screen and (max-width: 768px) {
+    body {
+        background: url('../src/images/bg-tablet-pattern.svg');
+        background-repeat: no-repeat;
+        background-size: 800px;
+        background-position: 107% -7%;
+    }
+  
+  }
